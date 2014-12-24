@@ -83,7 +83,7 @@ sudo service supervisor start
 
 ## Verify the stream
 
-You can check that it's actually streaming by opening this URI in VLC:
+You can check that it's actually streaming by opening this URI in [VLC](http://www.videolan.org/vlc/index.html) on your computes:
 
 ```uri
 rtmp://<RASPBERRY_IP/live/<STREAM_NAME> 
