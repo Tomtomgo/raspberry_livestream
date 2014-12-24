@@ -1,4 +1,4 @@
-# Streaming live video from a webcam to the web over RTMP using a Raspberry Pi and Nginx
+# Streaming live video from a webcam over RTMP using a Raspberry Pi and Nginx
 
 
 ![Live stream for foosball in action, much inception!](/livestream-working.jpg?raw=true "Live stream for foosball in action, much inception!")
@@ -23,6 +23,7 @@ This is the hardware we used. You will probably have some other stuff... which s
 - 8 GB SD card
 - Logitech C310 webcam
 - 2A power adapter
+- All these things connected appropriately
 
 ## Installing the necessary software
 
