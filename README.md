@@ -2,13 +2,15 @@
 
 - - - 
 
-Imagine you're in a shared office with a foosball table and many people in the office like to play foosball. Then sometimes when you want to play you'll make a trip down the stairs just to find out its in use and you'll have to go up the stairs again. That's pretty sad, useless and a waste of time. 
+[!](https://raw.githubusercontent.com/Tomtomgo/raspberry_livestream/master/livestream-working.jpg)
+
+Imagine you're in a shared office with a foosball table and many people in the office like to play foosball. Then sometimes when you want to play you'll make a trip down the stairs just to find out it's in use and you'll have to go up the stairs again. That's pretty sad, useless and a waste of time. 
 
 The fix is obvious: get a Raspberry Pi, a webcam and stream the foosball table so you'll always know if it's free!
 
 Because we ran into quite a few difficulties we decided to write a little how-to. Sharing is caring ;)
 
-If you find anything is missing, create an issue here!
+If you find anything is missing, please create an issue [here](https://github.com/Tomtomgo/raspberry_livestream/issues)!
 
 ## Hardware
 
