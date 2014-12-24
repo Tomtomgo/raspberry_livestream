@@ -81,6 +81,14 @@ sudo service supervisor stop
 sudo service supervisor start
 ```
 
+## Verify the stream
+
+You can check that it's actually streaming by opening this URI in VLC:
+
+```uri
+rtmp://<RASPBERRY_IP/live/<STREAM_NAME> 
+```
+
 ## Showing the stream on a web page
 
 We used [HDW Player](http://www.hdwplayer.com) for showing the RTMP-stream, but there are probably many more.
