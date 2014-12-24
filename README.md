@@ -25,6 +25,8 @@ Everything here should be done on the Raspberry Pi (as opposed to on your comput
 
 ### Basics
 
+Some basic dependencies:
+
 ```bash
 sudo apt-get install ffmpeg
 sudo apt-get install supervisor
@@ -49,7 +51,7 @@ sudo make install
 
 ### Edit `stream.sh` for your environment
 
-Replace **<STREAM_NAME>** and **<RASPBERRY_IP>** with suitable values for you. 
+Replace <STREAM_NAME> and <RASPBERRY_IP> with suitable values for you. 
 
 ### Copy files to Raspberry Pi
 
