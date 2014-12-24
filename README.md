@@ -2,7 +2,7 @@
 
 - - - 
 
-![Live stream for foosball in action, much inception!](https://raw.githubusercontent.com/Tomtomgo/raspberry_livestream/master/livestream-working.jpg)
+![Live stream for foosball in action, much inception!](/livestream-working.jpg?raw=true "Live stream for foosball in action, much inception!")
 
 Imagine you're in a shared office with a foosball table and many people in the office like to play foosball. Then sometimes when you want to play you'll make a trip down the stairs just to find out it's in use and you'll have to go up the stairs again. That's pretty sad, useless and a waste of time. 
 
