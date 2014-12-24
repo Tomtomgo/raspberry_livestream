@@ -51,7 +51,7 @@ sudo make install
 
 ### Edit `stream.sh` for your environment
 
-Replace <STREAM_NAME> and <RASPBERRY_IP> with suitable values for you. 
+Replace \<STREAM_NAME> and <RASPBERRY_IP> with suitable values for you. 
 
 ### Copy files to Raspberry Pi
 
