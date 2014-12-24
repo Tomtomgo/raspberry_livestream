@@ -73,7 +73,6 @@ scp -r ./ pi@<RASPBERRY_IP>:/home/pi
 cd ~
 sudo cp nginx.conf /usr/local/nginx/conf/nginx.conf
 cp stream.supervisor.conf /etc/supervisor/conf.d/stream.supervisor.conf 
-cp /tmp/nginx-rtmp-module-master/stat.xsl 
 ```
 
 ### Run the systems!
