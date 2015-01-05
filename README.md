@@ -27,7 +27,7 @@ This is the hardware we used. You will probably have some other stuff... which s
 
 ## Installing the necessary software
 
-Everything here should be done on the Raspberry Pi (as opposed to on your computes). 
+Everything here should be done on the Raspberry Pi (as opposed to on your computes) unless stated otherwise. 
 
 ### Basics
 
@@ -53,6 +53,14 @@ cd nginx-1.7.9
 ./configure --add-module=/tmp/nginx-rtmp-module-master
 make # <- This takes a few minutes on a Raspberry Pi
 sudo make install
+```
+
+### Get the files!
+
+You can fork the entire repo, or clone to your computer:
+
+```bash
+git clone https://github.com/Tomtomgo/raspberry_livestream.git
 ```
 
 ### Edit `stream.sh` for your environment
