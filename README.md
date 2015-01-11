@@ -137,15 +137,15 @@ That should do it! Go fot it!
 ## Adventures
 As mentioned, we ran into a little bit of trouble before it worked. Hereby a short summary what we tried and why it did not work;
 
-1. Stream to (bambuser.com)[http://bambuser.com]
+1. Stream to [bambuser.com](http://bambuser.com)
 
    We never got the stream connected  at Bamuser. The RMTP-addresses were unclear and did not accepted the connections.
   
-2. Stream to (twitch.tv)[http://twitch.tv]
+2. Stream to [twitch.tv](http://twitch.tv)
 
    This did not worked as we got banned several times, because we were not streaming gaming content. Wierd! Foosball is the best sport ever.
    
-3. Stream to (youtube.com)[http://youtube.com]
+3. Stream to [youtube.com](http://youtube.com)
 
    This attempt almost worked, we had a few cases were the stram was received. But in the end YouTube did not accepted the low bitrate coming from the RasberryPi.
 
