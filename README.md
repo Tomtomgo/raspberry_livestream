@@ -7,9 +7,9 @@
 
 - - - 
 
-Imagine you're in a shared office with a foosball table and many people in the office like to play foosball. Then sometimes when you want to play you'll make a trip down the stairs just to find out it's in use and you'll have to go up the stairs again. That's pretty sad, useless and a waste of time. 
+Imagine you're in a shared office with a foosball table and many people in the office like to play foosball. Then sometimes when you want to play you'll make a trip down the stairs just to find out it's in use and you'll have to go up the stairs again. That's pretty sad, useless and a waste of time. That time should be spent in awesome projects like these.
 
-The fix is obvious: get a Raspberry Pi, a webcam and stream the foosball table so you'll always know if it's free!
+The fix is obvious: Hackaton! Get a Raspberry Pi, a webcam and stream the foosball table so you'll always know if it's free! There are also some additional bennefits, such as secretly analysing competitor tactics
 
 Because we ran into quite a few difficulties we decided to write a little how-to. Sharing is caring ;)
 
@@ -132,7 +132,22 @@ Then to show the video you can do something like this (replace <THESE_THINGS>):
 </html>
 ```
 
-That should do it!
+That should do it! Go fot it!
+
+## Adventures
+As mentioned, we ran into a little bit of trouble before it worked. Hereby a short summary what we tried and why it did not work;
+
+1. Stream to (bambuser.com)[http://bambuser.com]
+
+   We never got the stream connected  at Bamuser. The RMTP-addresses were unclear and did not accepted the connections.
+  
+2. Stream to (twitch.tv)[http://twitch.tv]
+
+   This did not worked as we got banned several times, because we were not streaming gaming content. Wierd! Foosball is the best sport ever.
+   
+3. Stream to (youtube.com)[http://youtube.com]
+
+   This attempt almost worked, we had a few cases were the stram was received. But in the end YouTube did not accepted the low bitrate coming from the RasberryPi.
 
 ## Credits
 
