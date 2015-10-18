@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # Run avconv to stream the webcam's video to the RTMP server.
 
