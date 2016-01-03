@@ -8,7 +8,7 @@ avconv  -f video4linux2 \       # Webcam format goes in
         -b 256k \               # Fixed bitrate
         -i /dev/video0 \        # Webcam device
         -vcodec libx264 \       # h264.1 video encoder
-        -preset ultrafast \     # Use the fastest encodeing preset
+        -preset ultrafast \     # Use the fastest encoding preset
         -f flv \                # Flash video goes out
         -an \                   # No audio!
-        rtmp://<RASPBERRY_IP>/live/<STREAM_NAME>
+        'rtmp://<RASPBERRY_IP>/live/<STREAM_NAME>'
