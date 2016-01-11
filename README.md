@@ -34,7 +34,7 @@ Everything here should be done on the Raspberry Pi (as opposed to on your comput
 Some basic dependencies:
 
 ```bash
-sudo apt-get install ffmpeg supervisor
+sudo apt-get install libav-tools supervisor
 ```
 
 ### Build Nginx with RTMP module
